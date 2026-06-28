@@ -8,6 +8,6 @@ public class Hamad {
 
         System.out.println("This is the first change made at 9:22 am (sharp");
 
-        System.out.println("LAtest change by hamad at 1:30pm");
+        System.out.println("LAtest change by hamad at 1:30pm00");
     }
 }
