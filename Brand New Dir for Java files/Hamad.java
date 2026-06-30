@@ -1,6 +1,6 @@
 public class Hamad {
     public static void main(String[] args) {
-        System.out.println("Hi");
+        System.out.println("Hi this is change from my side ");
         System.out.println("my name is hamad");
         System.out.println("My patner is hamdan");
 
